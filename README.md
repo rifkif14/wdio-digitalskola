@@ -1,1 +1,1 @@
-# wdio_learning
+# wdio-digitalskola
